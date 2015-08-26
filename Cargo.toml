@@ -1,0 +1,7 @@
+[package]
+name = "gdfs"
+version = "0.1.0"
+authors = ["ganily"]
+
+[dependencies]
+tiny_http = "0.4"
