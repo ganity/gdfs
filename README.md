@@ -1,5 +1,5 @@
 # gdfs
-A Simple File System write by Rust lang, just for fun.
+A Simple File System write by rust lang, just for fun.
 
 how to build:<br>
 cd gdfs   <br>
